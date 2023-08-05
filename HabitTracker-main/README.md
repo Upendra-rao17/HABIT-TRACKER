@@ -10,4 +10,4 @@ This is a habit tracker application that allows you to track multiple habits on 
 - Weekly view to display the status of each habit for the past 7 days
 - Ability to change the status of a habit for today or any of the previous 6 days
 
-Site is live at https:https://github.com/Upendra-rao17/HABIT-TRACKER.git
+Site is live at https:https: https://upendra-rao17.github.io/HABIT-TRACKER/
